@@ -38,6 +38,10 @@
 ### Teck stack
 ![image](https://github.com/TWOGATH3R/twogather-web-backend/assets/66842566/1c217223-40a6-4e14-afc4-a1be216041fa)
 
+## 프론트엔드
+### Teck stack
+![image](https://github.com/TWOGATH3R/.github/assets/88264006/93d135c0-3137-4bab-b5d1-2d941d939d45)
+
 
 # 로컬에서 실행시키는 방법
 ## 백엔드
