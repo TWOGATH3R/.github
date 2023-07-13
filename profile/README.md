@@ -23,8 +23,8 @@
 |<img src=https://github.com/TWOGATH3R/.github/assets/66842566/1912d42b-26cb-48bc-b1d8-9a5f3acacb6b.gif>||
 |개인회원 마이페이지|가게 주인 마이페이지|
 |<img src=https://github.com/TWOGATH3R/.github/assets/66842566/fd8e5746-6fff-4994-9c00-f09f33c176da.gif>|<img src=https://github.com/TWOGATH3R/.github/assets/66842566/b8494fa0-56b8-4a51-a4af-72fec9162156.gif>|
-|관리자 마이페이지|관리자 승인/거부 후 가게 확인|
-|<img src=https://github.com/TWOGATH3R/.github/assets/66842566/a119195e-d54c-4a2c-a95c-e1073c262eae.gif>|<img src=https://github.com/TWOGATH3R/.github/assets/66842566/a2c8b15a-efe4-4214-b71f-93afde9effd.gif>|
+|관리자 마이페이지|관리자 승인/거부|
+|<img src=https://github.com/TWOGATH3R/.github/assets/66842566/a119195e-d54c-4a2c-a95c-e1073c262eae.gif>|<img src=https://github.com/TWOGATH3R/.github/assets/66842566/ceff61cf-70b3-4e6b-ae49-2ad41556e9f7.gif>|
 |가게 등록|가게주인 대댓글 남기기|
 |<img src=https://github.com/TWOGATH3R/.github/assets/66842566/bccee6fc-a390-48e0-b49d-12fb929631c4.gif>|<img src=https://github.com/TWOGATH3R/.github/assets/66842566/4fb2ecbc-58a7-43a6-a749-5a0dc36db9b1.gif>|
 |가게 상세 보기|리뷰 달기|
