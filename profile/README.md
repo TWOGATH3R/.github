@@ -12,6 +12,13 @@
 - 로그인한 회원들은 자신의 정보를 변경하고 탈퇴할 수 있습니다
 - 아이디나 비밀번호를 잃어버린 회원들은 자신의 정보를 찾을 수 있습니다
 - [Demo 사이트 들어가기](https://twogather.netlify.app/)
+# 동작
+
+|로그인|검색|
+|:-:|:-:|
+|<img src=https://github.com/TWOGATH3R/.github/assets/66842566/303270ec-f865-4d9a-ab22-b4d44c160e72.gif>|<img src=https://github.com/TWOGATH3R/.github/assets/66842566/b8494fa0-56b8-4a51-a4af-72fec9162156.gif>|
+|로그인|검색|
+|<img src=https://github.com/TWOGATH3R/.github/assets/66842566/303270ec-f865-4d9a-ab22-b4d44c160e72.gif>|<img src=https://github.com/TWOGATH3R/.github/assets/66842566/b8494fa0-56b8-4a51-a4af-72fec9162156.gif>|
 
 # 프로젝트 기술스택
 ## 백엔드
@@ -19,6 +26,7 @@
 ![image](https://github.com/TWOGATH3R/twogather-web-backend/assets/66842566/d96d47be-3da6-48df-9b2b-4260815f4f16)
 ### Teck stack
 ![image](https://github.com/TWOGATH3R/twogather-web-backend/assets/66842566/1c217223-40a6-4e14-afc4-a1be216041fa)
+
 
 # 로컬에서 실행시키는 방법
 ## 백엔드
